@@ -1,2 +1,3 @@
 # simple_keylogger
-Simple(not super useful) but funcitional, key logger.
+Simple(not super useful) but functional, key logger.
+(Made using Freecodecamp's tutorial video)
